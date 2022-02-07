@@ -1,7 +1,8 @@
 # paintJS
 바닐라JS로 만든 미니 그림판    
-Painting board made with VanillaJS
-
+Painting board made with VanillaJS   
+     
+Publishing: https://yeker12.github.io/paintJS/
 
 ### 기본 화면
      
